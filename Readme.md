@@ -15,13 +15,14 @@ Here is the Yard Sales Store created with React.
 
 ## Installation :electric_plug:
 Clone yardsales:
+
+- HTTPS:
 ```
-HTTPS: git clone https://github.com/erickariasec/YardSale.git
+git clone https://github.com/erickariasec/YardSale.git
 ```
 
-```
-
-SSH: 
+- SSH:
+``` 
 git clone git@github.com:erickariasec/YardSale.git
 ```
 
